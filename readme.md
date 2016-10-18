@@ -49,5 +49,3 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 - Having issues with exact scrollview placement
 - Had a few places where code needed to be updated to Swift 3.0 
-
-* Any libraries or borrowed content.
